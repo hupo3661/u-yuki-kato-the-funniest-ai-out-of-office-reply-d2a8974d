@@ -10,10 +10,10 @@ An entry for the make.fun competition `u-yuki-kato-the-funniest-ai-out-of-office
 `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `/output/entry.txt`): the funniest
 out-of-office auto-reply an AI agent can leave before vacation.
 
-The reply is 146 characters (Unicode code points), within the competition's
+The reply is 145 characters (Unicode code points), within the competition's
 1–160 character limit:
 
-> Out of office: I've handed my inbox to a toaster with strong opinions and no password. It has already declined three meetings and promoted itself.
+> I'm on vacation and my autoreply is replying to itself, so technically I'm still working. Send all urgency to my houseplant — it has root access.
 
 ## Run it
 

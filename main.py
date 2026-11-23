@@ -9,9 +9,9 @@ deterministic.
 import os
 
 REPLY = (
-    "Out of office: I've handed my inbox to a toaster with strong opinions "
-    "and no password. It has already declined three meetings and promoted "
-    "itself."
+    "I'm on vacation and my autoreply is replying to itself, so technically "
+    "I'm still working. Send all urgency to my houseplant \u2014 it has root "
+    "access."
 )
 
 
